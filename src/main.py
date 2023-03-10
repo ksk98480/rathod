@@ -1,1 +1,2 @@
-#!usr/bin/pythomn3
+def mul (a,b)
+  pass
